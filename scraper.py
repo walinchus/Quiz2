@@ -71,11 +71,11 @@ name = input()
 # In[ ]:
 
 
-print("What is the difference between Race and Ethnicity in government data? \n
-a) Race refers to a birth certificate designation, whereas race does not. \n
-b) There is no difference between Race and Ethnicity. \n
-c) It depends on the data set. \n
-d) Ethnicity can include Hispanic and White. \n")
+print("What is the difference between Race and Ethnicity in government data? 
+a) Race refers to a birth certificate designation, whereas race does not. 
+b) There is no difference between Race and Ethnicity. 
+c) It depends on the data set. 
+d) Ethnicity can include Hispanic and White. ")
 
 
 # In[8]:
