@@ -71,7 +71,11 @@ name = input()
 # In[ ]:
 
 
-print("What is the difference between Race and Ethnicity in government data? a) Race refers to a birth certificate designation, whereas race does not. b) There is no difference between Race and Ethnicity. c) It depends on the data set.  d) Ethnicity can include Hispanic and White. ")
+print("What is the difference between Race and Ethnicity in government data?\n
+a- Race refers to a birth certificate designation, whereas race does not.\n
+b- There is no difference between Race and Ethnicity. \n
+c- It depends on the data set. \n
+d- Ethnicity can include Hispanic and White. ")
 
 
 # In[8]:
@@ -83,7 +87,11 @@ Answer1 = input ()
 # In[9]:
 
 
-print("What is the average airspeed velocity of a swallow?")
+print("What does the unemployment rate calculate?\n
+     a- the percent of people who are unemployed \n
+     b- people who are unemployed and not looking for work\n
+     c- people who are unemployed and looking for work\n
+     d- a sample of c.")
 
 
 # In[10]:
